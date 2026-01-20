@@ -1,0 +1,10 @@
+<s>:<np>,<vp>
+<np>:<dp>,<adjp>,<n>|<pn>
+<dp>:the|a
+<adjp>:<adj>|<adj>,<adjp>
+<adj>:playful|gentle|curious|bright|fuzzy
+<n>:cat|child|dog|bird|rabbit
+<pn>:Charlie|Sam|Jamie|Drew|Morgan
+<vp>:<tv>,<np>|<iv>
+<tv>:chased|hugged|fed|watched|petted
+<iv>:slept|ran|played|jumped|laughed
