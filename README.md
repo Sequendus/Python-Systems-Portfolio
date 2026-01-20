@@ -1,7 +1,7 @@
 
-# Gravity-Based Connect Four & Python Systems Project
+# Python Systems Projects
 
-This repository contains a collection of Python systems developed as part of my programming coursework at the University of Sydney. The project focuses on object‑oriented design, recursion, decorators, and system‑level thinking, rather than just basic gameplay or scripts.
+This repository contains a collection of Python systems developed as part of my coursework for **INFO1110 (Introduction to Programming)** at the University of Sydney. The project focuses on object‑oriented design, recursion, decorators, and system‑level thinking.
 
 ---
 
